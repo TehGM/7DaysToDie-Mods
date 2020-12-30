@@ -3,3 +3,8 @@ In this repo, I include my 7 Days to Die mods.
 
 ## Compatibility
 These mods are designed for 7 Days to Die alpha 19.3. I do not guarantee compability with other game versions.
+
+## License
+Copyright (c) 2020 TehGM 
+
+Licensed under [MIT License](LICENSE).
