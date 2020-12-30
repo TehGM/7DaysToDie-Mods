@@ -1,0 +1,16 @@
+<configs>
+  <!-- Pine forest -->
+  <set xpath="/spawning/biome[@name='pine_forest']/spawn[@entitygroup='EnemyAnimalsForest']/@respawndelay">1.4</set>
+
+  <!-- Burnt forest -->
+  <set xpath="/spawning/biome[@name='burnt_forest']/spawn[@entitygroup='EnemyAnimalsBurntForest']/@respawndelay">1.4</set>
+  
+  <!-- Desert -->
+  <set xpath="/spawning/biome[@name='desert']/spawn[@entitygroup='EnemyAnimalsDesert']/@respawndelay">4</set>
+  
+  <!-- Wasteland -->
+  <set xpath="/spawning/biome[@name='wasteland']/spawn[@entitygroup='EnemyAnimalsWasteland']/@respawndelay">1.3</set>
+  
+  <!-- Snow -->
+  <set xpath="/spawning/biome[@name='snow']/spawn[@entitygroup='EnemyAnimalsSnow']/@respawndelay">3.5</set>
+</configs>
