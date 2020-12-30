@@ -1,0 +1,31 @@
+<configs>
+  <!-- Pine forest -->
+  <set xpath="/spawning/biome[@name='pine_forest']/spawn[@time='Day' and @entitygroup='ZombiesAll']/@maxcount">2</set>
+  <set xpath="/spawning/biome[@name='pine_forest']/spawn[@time='Day' and @entitygroup='ZombiesAll']/@respawndelay">1.9</set>
+
+  <set xpath="/spawning/biome[@name='pine_forest']/spawn[@time='Night' and @entitygroup='ZombiesNight']/@maxcount">2</set>
+  <set xpath="/spawning/biome[@name='pine_forest']/spawn[@time='Night' and @entitygroup='ZombiesNight']/@respawndelay">2.3</set>
+
+  <!-- Burnt forest -->
+  <set xpath="/spawning/biome[@name='burnt_forest']/spawn[@time='Day' and @entitygroup='ZombiesBurntForest']/@maxcount">2</set>
+  <set xpath="/spawning/biome[@name='burnt_forest']/spawn[@time='Day' and @entitygroup='ZombiesBurntForest']/@respawndelay">1.8</set>
+
+  <set xpath="/spawning/biome[@name='burnt_forest']/spawn[@time='Night' and @entitygroup='ZombiesNight']/@maxcount">2</set>
+  <set xpath="/spawning/biome[@name='burnt_forest']/spawn[@time='Night' and @entitygroup='ZombiesNight']/@respawndelay">2.2</set>
+  
+  <!-- Desert -->
+  <set xpath="/spawning/biome[@name='desert']/spawn[@time='Any' and @entitygroup='ZombiesAll']/@maxcount">2</set>
+  <set xpath="/spawning/biome[@name='desert']/spawn[@time='Any' and @entitygroup='ZombiesAll']/@respawndelay">1.7</set>
+
+  <set xpath="/spawning/biome[@name='desert']/spawn[@time='Night' and @entitygroup='ZombiesNight']/@maxcount">2</set>
+  <set xpath="/spawning/biome[@name='desert']/spawn[@time='Night' and @entitygroup='ZombiesNight']/@respawndelay">1.1</set>
+  
+  <!-- Wasteland -->
+  <set xpath="/spawning/biome[@name='wasteland']/spawn[@time='Day' and @entitygroup='ZombiesAll']/@maxcount">2</set>
+  
+  <!-- Snow -->
+  <set xpath="/spawning/biome[@name='snow']/spawn[@time='Any' and @entitygroup='SnowZombies']/@maxcount">2</set>
+  <set xpath="/spawning/biome[@name='snow']/spawn[@time='Any' and @entitygroup='SnowZombies']/@respawndelay">1.6</set>
+  
+  <set xpath="/spawning/biome[@name='snow']/spawn[@time='Night' and @entitygroup='ZombiesNight']/@maxcount">2</set>
+</configs>

@@ -1,0 +1,13 @@
+<configs>
+  <remove xpath="/entity_classes/entity_class[@name='zombieSpider']/property[@name='JumpMaxDistance']"/>
+  <remove xpath="/entity_classes/entity_class[@name='zombieSpider']/property[@value='Leap']"/>
+  <set xpath="/entity_classes/entity_class[@name='zombieSpider']/property[@name='AITask-2']/@name">AITask-1</set>
+  <set xpath="/entity_classes/entity_class[@name='zombieSpider']/property[@name='AITask-3']/@name">AITask-2</set>
+  <set xpath="/entity_classes/entity_class[@name='zombieSpider']/property[@name='AITask-4']/@name">AITask-3</set>
+  <set xpath="/entity_classes/entity_class[@name='zombieSpider']/property[@name='AITask-5']/@name">AITask-4</set>
+  <set xpath="/entity_classes/entity_class[@name='zombieSpider']/property[@name='AITask-6']/@name">AITask-5</set>
+  <set xpath="/entity_classes/entity_class[@name='zombieSpider']/property[@name='AITask-7']/@name">AITask-6</set>
+  <set xpath="/entity_classes/entity_class[@name='zombieSpider']/property[@name='AITask-8']/@name">AITask-7</set>
+  <set xpath="/entity_classes/entity_class[@name='zombieSpider']/property[@name='AITask-9']/@name">AITask-8</set>
+  <set xpath="/entity_classes/entity_class[@name='zombieSpider']/property[@name='AITask-10']/@name">AITask-9</set>
+</configs>
