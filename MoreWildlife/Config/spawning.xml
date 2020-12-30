@@ -1,0 +1,13 @@
+<configs>
+  <!-- Pine forest -->
+  <set xpath="/spawning/biome[@name='pine_forest']/spawn[@time='Any' and @entitygroup='WildGameForest']/@maxcount">2</set>
+
+  <!-- Burnt forest -->
+  <set xpath="/spawning/biome[@name='burnt_forest']/spawn[@time='Any' and @entitygroup='WildGameForest']/@maxcount">2</set>
+  
+  <!-- Desert -->
+  <set xpath="/spawning/biome[@name='desert']/spawn[@time='Any' and @entitygroup='WildGameForest']/@maxcount">2</set>
+  
+  <!-- Snow -->
+  <set xpath="/spawning/biome[@name='snow']/spawn[@time='Any' and @entitygroup='WildGameForest']/@maxcount">2</set>
+</configs>
