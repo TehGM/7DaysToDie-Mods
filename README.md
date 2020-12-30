@@ -12,7 +12,13 @@ These mods are designed for 7 Days to Die alpha 19.3. I do not guarantee compabi
 - [Remove Demolisher](RemoveDemolisher) - removes [Demolisher Zombie](https://7daystodie.gamepedia.com/Demolisher) from blood moon hordes.
 - [Spiders Normal Jump](SpidersNormalJump) - removes leaping behaviour of [Spider Zombie](https://7daystodie.gamepedia.com/Spider_Zombie).
 
-## License
+## Installation
+1. Clone this repository or download as ZIP
+2. Copy entire folders of the mods that you want to install into `<game_installation_dir>/Mods` folder.
+
+More information: https://7daystodie.gamepedia.com/How_to_Install_Modlets
+
+# License
 Copyright (c) 2020 TehGM 
 
 Licensed under [MIT License](LICENSE).
