@@ -18,7 +18,7 @@ Note: original values are per 7 Days to Die alpha 19.3.
   Night zombie respawn delay: 2.1 -> 1.1  
   Day and night zombie spawn count: 1 -> 2
 - Wasteland:  
-  Day zombie respawn delay: *unchanged*
+  Day zombie respawn delay: *unchanged*  
   Night zombie respawn delay: *unchanged*  
   Day zombie spawn count: 1 -> 2
 - Snow:  
