@@ -1,0 +1,10 @@
+<configs>
+  <set xpath="/blocks/block[@name='campfire']/property[@name='HeatMapStrength']/@value">2.5</set>
+  <set xpath="/blocks/block[@name='forge']/property[@name='HeatMapStrength']/@value">3</set>
+  <set xpath="/blocks/block[@name='workbench']/property[@name='HeatMapStrength']/@value">1</set>
+  <set xpath="/blocks/block[@name='cementMixer']/property[@name='HeatMapStrength']/@value">1</set>
+  <set xpath="/blocks/block[@name='chemistryStation']/property[@name='HeatMapStrength']/@value">2.5</set>
+  <set xpath="/blocks/block[@name='wallTorchLightPlayer']/property[@name='HeatMapStrength']/@value">0.6</set>
+  <set xpath="/blocks/block[@name='candleWallLightPlayer']/property[@name='HeatMapStrength']/@value">0.4</set>
+  <set xpath="/blocks/block[@name='burningBarrelPlayer']/property[@name='HeatMapStrength']/@value">0.7</set>
+</configs>
