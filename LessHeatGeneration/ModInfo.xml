@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml>
+  <ModInfo>
+    <Name value="Less Heat Generation" />
+    <Description value="Reduces heatmap generation from blocks." />
+    <Author value="TehGM" />
+    <Version value="1.0.0" />
+    <Website value="https://github.com/TehGM/7DaysToDie-Mods"/>
+  </ModInfo>
+</xml>
