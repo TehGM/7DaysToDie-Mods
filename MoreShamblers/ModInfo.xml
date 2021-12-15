@@ -4,7 +4,7 @@
     <Name value="More Shamblers" />
     <Description value="Increases spawn rates of zombies to make world feel more alive. Spawn rates of hostile animals are not changed." />
     <Author value="TehGM" />
-    <Version value="1.0.0" />
+    <Version value="1.1.0" />
     <Website value="https://github.com/TehGM/7DaysToDie-Mods"/>
   </ModInfo>
 </xml>
