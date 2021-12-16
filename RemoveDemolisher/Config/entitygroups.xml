@@ -1,3 +1,4 @@
 <configs>
-  <remove xpath="/entitygroups/entitygroup/entity[@name='zombieDemolition']"/>
+  <!--<remove xpath="/entitygroups/entitygroup/entity[@name='zombieDemolition']"/>-->
+  <set xpath="/entitygroups/entitygroup/entity[@name='zombieDemolition']/@prob">0</set>
 </configs>
